@@ -1,0 +1,12 @@
+[submodule "MostPopularWords"]
+	path = MostPopularWords
+	url = https://github.com/treselle-systems/MostPopularWords.git
+	branch = master
+[submodule "MostPopularWordsBetter"]
+	path = MostPopularWordsBetter
+	url = https://github.com/treselle-systems/MostPopularWordsBetter.git
+	branch = master
+[submodule "NormalizedMostPopularWords"]
+	path = NormalizedMostPopularWords
+	url = https://github.com/treselle-systems/NormalizedMostPopularWords.git
+	branch = master
